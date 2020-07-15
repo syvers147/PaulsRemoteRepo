@@ -1,0 +1,8 @@
+Arrange
+Get instance of ShareClass
+
+Act
+Edit Share Class Name
+
+Assert
+Test share class name is edited in database
