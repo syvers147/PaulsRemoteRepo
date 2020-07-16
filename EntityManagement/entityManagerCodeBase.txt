@@ -5,3 +5,8 @@ entity.DOB = "20120912"
 while (entity.Name == "Paul")
       entityName = "John"
 loop
+
+if (entity.Name == "Paul")
+{
+    It didn't change the name!
+}
