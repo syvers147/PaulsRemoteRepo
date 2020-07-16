@@ -1,3 +1,7 @@
 Entity entity = new Entity(12)
 entity.Name = "Paul"
 entity.DOB = "20120912"
+
+while (entity.Name == "Paul")
+      entityName = "John"
+loop
