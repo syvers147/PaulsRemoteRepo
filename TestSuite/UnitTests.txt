@@ -7,4 +7,4 @@ Edit Share Class Name
 Assert
 Test share class name is edited in database
 
-If all tests passed then we are happy
+If all tests passed then we are happy at least we should be as they passed.
